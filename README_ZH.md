@@ -1,12 +1,12 @@
 # LittleHooker-example
 
-[![wakatime](https://wakatime.com/badge/user/2838d0e1-1416-4f45-bc46-cbda8f4d9e75/project/93f45b7b-afeb-4f15-a5cd-6fabd00b17c9.svg)](https://wakatime.com/badge/user/2838d0e1-1416-4f45-bc46-cbda8f4d9e75/project/93f45b7b-afeb-4f15-a5cd-6fabd00b17c9)
+[![wakatime](https://wakatime.com/badge/user/2838d0e1-1416-4f45-bc46-cbda8f4d9e75/project/80c2ddf0-208d-429f-a618-1732c372528f.svg)](https://wakatime.com/badge/user/2838d0e1-1416-4f45-bc46-cbda8f4d9e75/project/80c2ddf0-208d-429f-a618-1732c372528f)
 
-[![CodeFactor](https://www.codefactor.io/repository/github/willowsaucer/hooker/badge)](https://www.codefactor.io/repository/github/willowsaucer/hooker)
+[![CodeFactor](https://www.codefactor.io/repository/github/willowsaucer/littlehooker-example/badge)](https://www.codefactor.io/repository/github/willowsaucer/littlehooker-example)
 
 [English](README.md) | 简体中文
 
-本项目是``LittleHooker``框架的示例。
+本项目是[LittleHooker](https://github.com/WillowSauceR/LittleHooker)框架的示例。
 
 ## 功能
 1. 开服时输出消息，如协议版本号
