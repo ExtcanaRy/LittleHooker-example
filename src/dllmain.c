@@ -6,8 +6,10 @@ BOOL APIENTRY DllMain(HMODULE hModule, DWORD ul_reason_for_call, LPVOID lpReserv
 {
     switch (ul_reason_for_call) {
     case DLL_PROCESS_ATTACH:
-        if (!lh_init())
-            printf("hooker init failed\n");
+        if (!lh_init()) {
+            puts("LittleHooker init failed\n");
+            break;
+        }
         load_plugin();
         break;
     case DLL_THREAD_ATTACH:
